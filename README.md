@@ -1,7 +1,7 @@
 
-![](header-gif.gif)
-
-### Hi there 👋
+<p align="center">
+  <img src="./header-gif.gif">
+</p>
 
 <!--
 **yuliazherebtsova/yuliazherebtsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
