@@ -1,5 +1,5 @@
 
-![](header__gif.gif)
+![](header-gif.gif)
 
 ### Hi there 👋
 
