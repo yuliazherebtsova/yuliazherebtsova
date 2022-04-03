@@ -1,9 +1,12 @@
 
-<p align="center">
+<div align="center">
   <img src="./header-gif.gif">
-</p>
+</div>
 
 ### Hi there 👋
+ <a class="header-badge" target="_blank" href="https://www.codewars.com/users/yulia.zherebtsova">
+      <img alt="Codewars badge" src="https://www.codewars.com/users/yulia.zherebtsova/badges/large">
+  </a>
 
 <!--
 **yuliazherebtsova/yuliazherebtsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
