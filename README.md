@@ -37,9 +37,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 ### 📫 Find me at
-[![telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/yulia_zherebtsova)
-[![gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julia.zherebtsova@gmail.com)](mailto:julia.zherebtsova@gmail.com)
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/)
+[![telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue&)](https://t.me/yulia_zherebtsova)
+[![gmail](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:julia.zherebtsova@gmail.com)](mailto:julia.zherebtsova@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/)
 
 ### 🚀 Statistics
 
