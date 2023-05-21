@@ -16,7 +16,7 @@
 <a href="https://electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuliazherebtsova&layout=compact&hide=jupyter%20notebook,html,scss,css&theme=dafault&locale=en" alt="yuliazherebtsova" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuliazherebtsova&layout=compact&hide=jupyter%20notebook&theme=dafault&locale=en" alt="yuliazherebtsova" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuliazherebtsova&count_private=true&show_icons=true&theme=dafault&hide=contribs&locale=en" alt="yuliazherebtsova" /></p>
 
