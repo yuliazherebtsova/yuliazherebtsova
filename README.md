@@ -18,6 +18,7 @@
 </p>
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliazherebtsova&layout=compact&hide=jupyter%20notebook&theme=dafault&locale=en&card_width=250)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=yuliazherebtsova&count_private=true&show_icons=true&theme=dafault&hide=contribs&locale=en&custom_title=GitHub%20Stats)
 
-<a align="center" target="_blank" href="https://www.codewars.com/users/yulia.zherebtsova"><img alt="Codewars badge" src="https://www.codewars.com/users/yulia.zherebtsova/badges/small"></a>
+![codewas](https://www.codewars.com/users/yulia.zherebtsova/badges/small)
