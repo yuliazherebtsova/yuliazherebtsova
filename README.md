@@ -1,6 +1,7 @@
 
 <div align="center">
   <img src="./header-gif.gif">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuliazherebtsova&label=Profile%20views&color=0e75b6&style=flat" alt="yuliazherebtsova" /> </p> 
 </div>
 
 <h1 align="center">Hi 👋, I'm Yulia</h1>
@@ -20,8 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuliazherebtsova&count_private=true&show_icons=true&theme=dafault&hide=contribs&locale=en" alt="yuliazherebtsova" /></p>
 
-<a target="_blank" href="https://www.codewars.com/users/yulia.zherebtsova">
-      <img alt="Codewars badge" src="https://www.codewars.com/users/yulia.zherebtsova/badges/small">
-</a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuliazherebtsova&label=Profile%20views&color=0e75b6&style=flat" alt="yuliazherebtsova" /> </p>
+<a align="center" target="_blank" href="https://www.codewars.com/users/yulia.zherebtsova"><img alt="Codewars badge" src="https://www.codewars.com/users/yulia.zherebtsova/badges/small"></a>
