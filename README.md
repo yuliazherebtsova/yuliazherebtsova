@@ -16,7 +16,7 @@
 
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://rxjs.io" target="_blank" rel="noreferrer"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="40" height="40"/></a>
+<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="40" height="40"/></a>
 <a href="https://ngrx.io" target="_blank" rel="noreferrer"> <img src="https://ngrx.io/assets/images/badge.svg" alt="ngrx" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
