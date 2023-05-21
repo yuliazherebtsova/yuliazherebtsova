@@ -17,7 +17,9 @@
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuliazherebtsova&layout=compact&hide=jupyter%20notebook,html,scss,css&theme=dafault&locale=en" alt="yuliazherebtsova" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuliazherebtsova&count_private=true&show_icons=true&theme=dafault&hide=contribs&locale=en" alt="yuliazherebtsova" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuliazherebtsova&" alt="yuliazherebtsova" /></p>
 
 <a target="_blank" href="https://www.codewars.com/users/yulia.zherebtsova">
