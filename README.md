@@ -8,6 +8,8 @@
       <img alt="Codewars badge" src="https://www.codewars.com/users/yulia.zherebtsova/badges/large">
   </a>
 
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuliazherebtsova&count_private=true&show_icons=true&theme=transparent)](https://github.com/yuliazherebtsova/github-readme-stats)
+
 <!--
 **yuliazherebtsova/yuliazherebtsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
