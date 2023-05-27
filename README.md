@@ -42,6 +42,6 @@
 
 ### 🚀 Statistics
 
-![stats](https://github-readme-stats.vercel.app/api?username=yuliazherebtsova&count_private=true&show_icons=true&theme=dafault&hide=contribs&locale=en&custom_title=GitHub%20Stats&border_radius=20&line_height=24)
+![stats](https://github-readme-stats.vercel.app/api?username=yuliazherebtsova&count_private=true&show_icons=true&theme=dafault&hide_rank=true&&hide=contribs&locale=en&custom_title=GitHub%20Stats&border_radius=20&line_height=24)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliazherebtsova&layout=compact&hide=jupyter%20notebook&theme=dafault&locale=en&border_radius=20&card_width=372) 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=yuliazherebtsova&theme=dafault&locale=en&border_radius=20&currStreakNum=0969da&fire=0969da&ring=0969da&currStreakLabel=0969da&sideNums=0969da&sideLabels=0969da&card_width=900)
